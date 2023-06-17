@@ -63,6 +63,8 @@ ViewModels are notified of Entity changes through MessagingCenter.  They subscri
 ## Reference(s)
 * https://github.com/ssorrrell/Thoth
 * https://github.com/ssorrrell
+* https://github.com/carlfranklin/DotNetShow
+* https://github.com/carlfranklin/MobileDnr1
 
 ## ..
 As is. No support. RnD only.
